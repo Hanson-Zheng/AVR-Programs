@@ -14,6 +14,7 @@ There are two types of Codes, the First one for Arduino IDE and the Second one f
 3.Test the function of the codes on develop kit or simulation software.  
 ## Index
 ### Arduino IDE Series
-A0001.Serial Communication Repeater
+A0001.Serial Communication Repeater  
+A0002.PID Speed Controller
 ### Microchip Studio Series
 M0001.Button Controlled LED(ASM)
